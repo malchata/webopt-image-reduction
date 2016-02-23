@@ -6,6 +6,8 @@
   "dependencies": {
     "compression": "^1.6.0",
     "express": "^4.13.3",
+    "imagemin": "^4.0.0",
+    "imagemin-jpeg-recompress": "^4.3.0",
     "serve-favicon": "^2.3.0"
   },
   "devDependencies": {
